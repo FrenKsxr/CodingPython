@@ -1,0 +1,31 @@
+# Bibliotecas básicas
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Ciencia de datos y Machine Learning
+scikit-learn>=1.2.0
+scipy>=1.10.0
+statsmodels>=0.14.0
+
+# Jupyter notebooks (opcional pero recomendado)
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Visualización avanzada
+plotly>=5.13.0
+bokeh>=3.1.0
+
+# Procesamiento de datos
+openpyxl>=3.1.0  # Para archivos Excel
+python-dateutil>=2.8.2
+
+# Deep Learning (opcional)
+# tensorflow>=2.12.0
+# torch>=2.0.0
+
+# Herramientas de desarrollo
+black>=23.3.0  # Formateador de código
+flake8>=6.0.0  # Linter
+pytest>=7.3.1  # Testing 
