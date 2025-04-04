@@ -7,3 +7,17 @@ apellido = "Segura"
 
 print("Edad:", edad, "Altura:", altura, "m", "Nombre:", nombre, apellido)
 
+print("Nombre:", nombre,  apellido, "Edad:", edad, "Altura:", altura, "m")
+
+
+# Ejercicio 2: calcular el área de un rectángulo
+base = 10
+altura = 5
+
+print("El área del rectángulo es:", base * altura, "m²")
+
+
+# ejercicio 3: convierte grados Celsius a Fahrenheit
+grados_celsius = 20
+grados_fahrenheit = (grados_celsius * 9/5) + 32
+print("Grados Celsius:", grados_celsius, "Grados Fahrenheit:", grados_fahrenheit)
