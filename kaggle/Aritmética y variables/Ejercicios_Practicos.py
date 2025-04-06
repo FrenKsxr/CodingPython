@@ -33,3 +33,7 @@ base_triangulo = 10
 altura_triangulo = 5
 area_triangulo = (base_triangulo * altura_triangulo) / 2
 print("El área del triángulo es:", area_triangulo, "m²")
+
+# Ejercicio 6: calculadora simple
+
+
