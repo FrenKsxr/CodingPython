@@ -27,3 +27,9 @@ radio = 5
 pi = 3.14159
 area_circulo = pi * (radio ** 2)
 print("El área del círculo es:", area_circulo, "m²")
+
+# Ejercicio 5: calcular el área de un triángulo
+base_triangulo = 10
+altura_triangulo = 5
+area_triangulo = (base_triangulo * altura_triangulo) / 2
+print("El área del triángulo es:", area_triangulo, "m²")
